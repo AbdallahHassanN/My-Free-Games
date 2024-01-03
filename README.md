@@ -5,6 +5,8 @@
 
 # Technologies & Open-source libraries
 * Kotlin mainly, Coroutines.
+* Retrofit.
+* Navigation Component.
 * Architecture
   - MVVM (model view view-model).
   - Repository pattern.
