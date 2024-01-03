@@ -1,11 +1,10 @@
 # Features
-
-*You can view all freely released games and access each game on the web.
-*You can save the games you are interested in.
-*Delete games you aren't interested in anymore
+* You can view all freely released games and access each game on the web.
+* You can save the games you are interested in.
+* Delete games you aren't interested in anymore.
 
 # Technologies & Open-source libraries
-* Kotlin mainly, Coroutines
+* Kotlin mainly, Coroutines.
 * Architecture
   - MVVM (model view view-model).
   - Repository pattern.
