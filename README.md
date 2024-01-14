@@ -1,6 +1,5 @@
 # Description 
-A prayer tracking application designed to enhance personal accountability and mindfulness in religious practices. It saves the count of missed prayers, serving as a gentle reminder and aiding users in maintaining their spiritual commitments. This innovative functionality ensures that users can easily review and make up for any overlooked prayers, fostering a more disciplined and organized approach to their religious observances. The application
-seamlessly combines technology and spirituality, reflecting my dedication to developing solutions that positively impact daily life.
+Mobile companion for exploring freely released games. This user-friendly app simplifies your gaming experience with features like Save the games that catch your eye, and easily manage your interests by deleting games that no longer resonate with you. It's more than an app; it's your curated gaming hub, streamlining the process of discovering and managing games, ensuring you stay connected with the gaming world on your terms.
 
 # Features
 * You can view all freely released games and access each game on the web.
